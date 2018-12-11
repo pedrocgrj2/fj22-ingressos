@@ -144,5 +144,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name>John Doe</name>
+    		<email>jdoe@exemple.com</email>
+    	</developer>
+    </developers>
 
 </project>
