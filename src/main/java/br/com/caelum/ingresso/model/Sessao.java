@@ -50,4 +50,8 @@ public class Sessao {
 	public void setFilme(Filme filme) {
 		this.filme = filme;
 	}
+
+	public LocalTime getHorario() {
+		return horario;
+	}
 }
